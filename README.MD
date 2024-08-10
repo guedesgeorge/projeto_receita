@@ -1,6 +1,5 @@
 <h1 align="center">Pagina de receita</h1>
 
-![My project-1 (2)](C:\Users\User\Downloads\main-image (1).jpg)
 
 
 <p align="center">
